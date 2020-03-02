@@ -7,4 +7,5 @@
   <li>OpenCV kurulumu</li>
   <li>I/O islemleri</li>
   <li>Basit operasyonlar</li>
+  <li>Cizim fonksiyonlari</li>
 </ol> 
